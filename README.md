@@ -55,9 +55,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ---
 
 Thank you for exploring the Emotion Classification with CNN repository. We hope this guide helps you in building and deploying your own emotion classification models using CNNs.
-
----
-
-## About
-
-The Emotion Classification with CNN repository demonstrates the implementation of a Convolutional Neural Network (CNN) to classify emotions in images, such as happy or sad. This project covers dataset loading, model building, training, and evaluation, providing a comprehensive guide for those interested in computer vision and emotion recognition.
